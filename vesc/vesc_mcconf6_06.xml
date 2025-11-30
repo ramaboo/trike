@@ -7,8 +7,8 @@
     <sensor_mode>0</sensor_mode>
     <l_current_max>90</l_current_max>
     <l_current_min>-10</l_current_min>
-    <l_in_current_max>100</l_in_current_max>
-    <l_in_current_min>-100</l_in_current_min>
+    <l_in_current_max>50</l_in_current_max>
+    <l_in_current_min>-10</l_in_current_min>
     <l_in_current_map_start>1</l_in_current_map_start>
     <l_in_current_map_filter>0.005</l_in_current_map_filter>
     <l_abs_current_max>135</l_abs_current_max>
@@ -184,11 +184,11 @@
     <m_hall_extra_samples>3</m_hall_extra_samples>
     <m_batt_filter_const>45</m_batt_filter_const>
     <si_motor_poles>14</si_motor_poles>
-    <si_gear_ratio>34</si_gear_ratio>
+    <si_gear_ratio>33.7</si_gear_ratio>
     <si_wheel_diameter>0.635</si_wheel_diameter>
     <si_battery_type>0</si_battery_type>
     <si_battery_cells>16</si_battery_cells>
-    <si_battery_ah>6</si_battery_ah>
+    <si_battery_ah>20</si_battery_ah>
     <si_motor_nl_current>1</si_motor_nl_current>
     <motor_brand></motor_brand>
     <motor_model></motor_model>
