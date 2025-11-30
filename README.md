@@ -1,3 +1,3 @@
 # Trike Project
 
-This repo holds the config files for VESC as well as a wiki of useful information.
+This repo holds the config files for VESC and a [Wiki](https://github.com/ramaboo/trike/wiki)
